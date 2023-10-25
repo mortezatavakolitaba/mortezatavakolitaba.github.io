@@ -25,13 +25,16 @@ organizations:
     url: https://www.apple.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mm-wave and terahertz circuit design.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - RF, mm-wave, and terahertz integrated circuit design
+  - Sub-THz/THz Communication systems and circuits for next generation 6G
+  - Machine learning-based circuit design
+  - Mm-wave and THz sensing imaging systems
+  - Cryogenic circuits for quantum computing and biology (cancer detection)
+  - Mm-wave/Sub-THz phased array systems for communications and sensing
 
 # Education to show in About widget
 education:
