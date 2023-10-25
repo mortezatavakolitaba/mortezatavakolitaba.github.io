@@ -55,10 +55,10 @@ skills:
   - name: Technical
     items:
     - name: Python
-      #description: ''
-      #percent: 80
-      #icon: python
-      #icon_pack: fab
+      # description: ''
+      # percent: 80
+      # icon: python
+      # icon_pack: fab
     - name: Data Science
       description: ''
       percent: 100
