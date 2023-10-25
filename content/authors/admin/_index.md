@@ -30,7 +30,7 @@ bio: My research interests include mm-wave and terahertz circuit design.
 # Interests to show in About widget
 interests:
   - RF, mm-wave, and terahertz integrated circuit design
-  - Sub-THz/THz Communication systems and circuits for next generation 6G
+  - Sub-THz/THz Communication systems and circuits for next-generation 6G
   - Machine learning-based circuit design
   - Mm-wave and THz sensing imaging systems
   - Cryogenic circuits for quantum computing and biology (cancer detection)
@@ -40,10 +40,10 @@ interests:
 education:
   courses:
     - course: PhD in Electronics and RF Circuit
-      institution: University of Michigan
+      institution: University of Michigan, Arbor
       year: 2023
     - course: MS in Electronics and RF Circuit
-      institution: University of Michigan
+      institution: University of Michigan, Ann Arbor
       year: 2021
     - course: BSc in Electrical Engineering
       institution: Sharif University of Technology
@@ -117,8 +117,9 @@ social:
 highlight_name: true
 ---
 
-<Morteza is currently working with Apple Inc., Cupertino, CA, USA as an Mm-wave Design Engineer, focusing on the design of millimeterwave (mm-Wave) circuits for 5G applications. His research interests revolve around mm-wave and terahertz circuit design, particularly for applications such as frequency-modulated continuous-wave (FMCW) radars, 5G, and next-generation 6G and communication systems.
-<br>
+Morteza is currently working with Apple Inc., Cupertino, CA, USA as an Mm-wave Design Engineer, focusing on the design of millimeterwave (mm-Wave) circuits for 5G applications. His research interests revolve around mm-wave and terahertz circuit design, particularly for applications such as frequency-modulated continuous-wave (FMCW) radars, 5G, and next-generation 6G and communication systems.
+
+
 Morteza received the B.S. degree from the Sharif University of Technology, Tehran, Iran, in 2018, and the M.S. and Ph.D. degrees from the University of Michigan, Ann Arbor, MI, USA, in 2021 and 2023, respectively.
 
 {style="text-align: justify;"}
