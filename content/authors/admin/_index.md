@@ -99,7 +99,7 @@ social:
     link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/
+    link: https://scholar.google.com/citations?user=M1_8MN8AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -111,7 +111,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Academia.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
