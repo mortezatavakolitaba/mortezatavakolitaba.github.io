@@ -21,8 +21,8 @@ role: Mm-wave Design Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Apple
+    url: https://www.apple.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -120,5 +120,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Morteza is currently working with Apple Inc., Cupertino, CA, USA as an Mm-wave Design Engineer, focusing on the design of millimeterwave (mm-Wave) circuits for 5G applications. His research interests revolve around mm-wave and terahertz circuit design, particularly for applications such as frequency-modulated continuous-wave (FMCW) radars, 5G, and next-generation 6G and communication systems.
+<be>
+Morteza received the B.S. degree from the Sharif University of Technology, Tehran, Iran, in 2018, and the M.S. and Ph.D. degrees from the University of Michigan, Ann Arbor, MI, USA, in 2021 and 2023, respectively.
+
 {style="text-align: justify;"}
