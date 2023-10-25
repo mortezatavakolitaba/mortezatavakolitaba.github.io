@@ -61,20 +61,26 @@ sections:
           location: Sunnyvale, CA
           date_start: '2023-08-06'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          description: Design and implementation of mm-wave circuits for cellular and sensing.
+        - title: Graduate Research and Teaching Assistant
+          company: University of Michigan
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Ann Arbor, MI
+          date_start: '2018-09-01'
+          date_end: '2023-08-31'
+          description: |2-
+              Projects include:
+
+              * Implementation of a 100, 200, and 363 GHz FMCW radar for imaging and detection of hidden objects behind the wall
+              * Computer-aided circuit block design using machine learning techniques.
+              * 40, 80, and 160 GHz frequency-locked sources operating at cryogenic temperature for magnetic resonance  force spectroscopy                 (MRFM), collaboration with the University of Cornell, Department of Chemistry (received NIH grant).
+              * Energy-efficient wireless communication circuit and system design with data rates exceeding 20 Gb/s.
+              * Implementation of a 4-by-4 FMCW array at 220 GHz for electrical beam steering.
+              * Worked on the theory and design of a low phase-noise power amplifier funded by Texas Instrument (TI).
+              * Design of millimeter-wave circuit blocks for phased arrays and beam steering applications funded by AirVine Scientific Inc.
+              * 4Gb/s Optical 8-channel transceiver for LiDAR applications funded by Avicena Tech.
+    
     design:
       columns: '2'
   - block: accomplishments
