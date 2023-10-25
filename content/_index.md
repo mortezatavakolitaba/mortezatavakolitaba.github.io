@@ -91,8 +91,8 @@ sections:
         - title: Research and Teaching Assistant
           company: Sharif University of Technology
           company_url: ''
-          company_logo: Apple_logo_black
-          location: Sunnyvale, CA
+          company_logo: sharif
+          location: Tehran
           date_start: '2022-05-06'
           date_end: '2022-08-06'
           description: |2-
