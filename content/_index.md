@@ -85,9 +85,23 @@ sections:
           company_url: ''
           company_logo: Apple_logo_black
           location: Sunnyvale, CA
-          date_start: '2023-08-06'
-          date_end: ''
-          description: Design and implementation of mm-wave circuits for cellular and sensing.
+          date_start: '2016-09-06'
+          date_end: '2018-06-06'
+          description: Design and implementation of mm-wave circuits for 5G applications.
+        - title: Research and Teaching Assistant
+          company: Sharif University of Technology
+          company_url: ''
+          company_logo: Apple_logo_black
+          location: Sunnyvale, CA
+          date_start: '2022-05-06'
+          date_end: '2022-08-06'
+          description: |2-
+              Projects include:
+
+              * Smart antenna-tracking system for 5G applications.
+              * Extraction of information from ECG signals for the detection of different kinds of heart diseases.
+              * A high-efficiency class F power amplifier design for WiFi applications.
+              * An 8-phase clock generator at 2 GHz for n-path filters.
     
     design:
       columns: '2'
