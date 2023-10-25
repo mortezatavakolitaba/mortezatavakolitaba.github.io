@@ -65,7 +65,7 @@ sections:
         - title: Graduate Research and Teaching Assistant
           company: University of Michigan
           company_url: ''
-          company_logo: org-x
+          company_logo: umich
           location: Ann Arbor, MI
           date_start: '2018-09-01'
           date_end: '2023-08-31'
