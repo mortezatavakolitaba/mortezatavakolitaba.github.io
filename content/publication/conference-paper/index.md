@@ -2,7 +2,7 @@
 title: 'A 53-62 GHz Two-channel Differential 6-bit Active Phase Shifter in 55-nm SiGe Technology'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# If you created a profile for a user (e.g., the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
