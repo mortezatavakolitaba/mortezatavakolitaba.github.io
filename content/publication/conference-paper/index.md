@@ -29,7 +29,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *ESSCIRC 2023-IEEE 49th European Solid-State Circuits Conference (ESSCIRC)*
-publication_short: In *ESSCIRC*
+# publication_short: In *ESSCIRC*
 
 abstract: In this paper, a two-channel 6-bit active differential phase shifter is presented. A novel optimization technique is proposed to achieve accurate I/Q signals from the poly-phase filter, ultimately resulting in low gain and phase errors for the phase shifter. Unlike conventional matching methods between poly-phase filter and vector modulator, a capacitive loading is proved to reduce the sensitivity of phase error to impedance variation of the vector modulator. With the appropriate selection of circuit parameters for the poly-phase filter, reasonable phase and gain errors can be achieved without making any unnecessary modifications to the vector modulator. Using this technique, a two-channel phase shifter is fabricated in a 55-nm SiGe process. The peak differential gain of the phase shifter is around 2.6 dB. Moreover, in the frequency range of 53-62GHz, both channels exhibit maximum gain and phase errors of 1.6 dB and 3.3°, respectively.
 
