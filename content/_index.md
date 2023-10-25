@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: hero
-    demo: true # Only display this section in the Wowchemy demo site
+    demo: False # Only display this section in the Wowchemy demo site
     content:
       title: Hugo Academic Theme
       image:
@@ -62,10 +62,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Mm-wave Design Engineer
+          company: Apple
           company_url: ''
-          company_logo: org-gc
+          company_logo: apple
           location: California
           date_start: '2021-01-01'
           date_end: ''
