@@ -80,6 +80,14 @@ sections:
               * Worked on the theory and design of a low phase-noise power amplifier funded by Texas Instrument (TI).
               * Design of millimeter-wave circuit blocks for phased arrays and beam steering applications funded by AirVine Scientific Inc.
               * 4Gb/s Optical 8-channel transceiver for LiDAR applications funded by Avicena Tech.
+        - title: Mm-wave Design Engineer
+          company: Apple
+          company_url: ''
+          company_logo: Apple_logo_black
+          location: Sunnyvale, CA
+          date_start: '2023-08-06'
+          date_end: ''
+          description: Design and implementation of mm-wave circuits for cellular and sensing.
     
     design:
       columns: '2'
