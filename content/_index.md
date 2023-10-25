@@ -65,16 +65,14 @@ sections:
         - title: Mm-wave Design Engineer
           company: Apple
           company_url: ''
-          company_logo: apple
+          company_logo: Apple_logo_black
           location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          date_start: 'August, 2023'
+          date_end: 'Present'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Design and implementation of mm-wave circuits for cellular and sensing
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
