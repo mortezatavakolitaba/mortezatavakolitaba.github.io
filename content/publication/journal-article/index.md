@@ -1,5 +1,5 @@
 ---
-title: "A Fast Back-to-Lock DPLL-Based 192--210-GHz Chirp Generator With $+ $5.9-dBm Peak Output Power for Sub-THz Imaging and Sensing"
+title: "A Fast Back-to-Lock DPLL-Based 192--210-GHz Chirp Generator With +5.9-dBm Peak Output Power for Sub-THz Imaging and Sensing"
 authors:
 - Lili Chen
 - admin
@@ -24,10 +24,10 @@ publication_types: ["article-journal"]
 publication: "*IEEE Journal of Solid-State Circuits*, 2023"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A fully integrated high-efficiency phase-locked sub-terahertz (THz) radiator is reported in this article, implemented in a 55-nm SiGe BiCMOS process. This radiator is capable of generating 192–210-GHz chirps, which can be used for the new generation of automotive and imaging radar systems. It consists of a low-power millimeter-wave digital phase-locked loop (DPLL)-based chirp generator, a high-efficiency 6  multiplier chain, and an on-chip folded slot antenna. By incorporating a 32-entry lookup table into the millimeter-wave DPLL, a fast back-to-lock feature is realized at the end of each chirp signal. In addition, this chirp generator prototype achieves  5.9/  19.2-dBm sub-THz power/effective isotropic radiated power (EIRP), which is among the highest in all the phase-locked sources at this frequency range. Its 3.0% dc-to-THz efficiency is at least 5* higher than all previously published works.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -36,14 +36,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://ieeexplore.ieee.org/abstract/document/10264917
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
