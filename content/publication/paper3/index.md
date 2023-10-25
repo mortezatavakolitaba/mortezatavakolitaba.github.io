@@ -1,4 +1,3 @@
-
 ---
 title: "A Fast Back-to-Lock DPLL-Based 192--210-GHz Chirp Generator With +5.9-dBm Peak Output Power for Sub-THz Imaging and Sensing"
 authors:
