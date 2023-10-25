@@ -203,6 +203,14 @@ sections:
     design:
       columns: '2'
       view: citation
+ 
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      username: admin
+    design:
+      columns: '1'
   - block: collection
     id: talks
     content:
