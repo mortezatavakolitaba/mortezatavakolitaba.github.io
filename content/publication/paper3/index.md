@@ -1,15 +1,14 @@
 ---
-title: "A Fast Back-to-Lock DPLL-Based 192--210-GHz Chirp Generator With +5.9-dBm Peak Output Power for Sub-THz Imaging and Sensing"
+title: "An Integrated 100-GHz FMCW Imaging Radar for Low-Cost Drywall Inspection"
 authors:
-- Lili Chen
+- SM Hossein Naghavi
 - admin
-- Zainulabideen Khalifa
-- Andreia Cathelin
+- Mohammed Aseeri
 - Ehsan Afshari
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,11 +20,12 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal of Solid-State Circuits*, 2023"
+publication: "*IEEE Transactions on Microwave Theory and Techniques*, 2023"
 publication_short: ""
 
-abstract: A fully integrated high-efficiency phase-locked sub-terahertz (THz) radiator is reported in this article, implemented in a 55-nm SiGe BiCMOS process. This radiator is capable of generating 192–210-GHz chirps, which can be used for the new generation of automotive and imaging radar systems. It consists of a low-power millimeter-wave digital phase-locked loop (DPLL)-based chirp generator, a high-efficiency 6  multiplier chain, and an on-chip folded slot antenna. By incorporating a 32-entry lookup table into the millimeter-wave DPLL, a fast back-to-lock feature is realized at the end of each chirp signal. In addition, this chirp generator prototype achieves  5.9/  19.2-dBm sub-THz power/effective isotropic radiated power (EIRP), which is among the highest in all the phase-locked sources at this frequency range. Its 3.0% dc-to-THz efficiency is at least 5* higher than all previously published works.
-
+abstract: This article presents a 100-GHz system-on-chip frequency-modulated continuous-wave (FMCW) radar for lowcost drywall inspection. The radar operates at the second
+harmonic and is implemented in 110-nm complementary metaloxide-semiconductor (CMOS) with fmax = 82 GHz, significantly lowering the fabrication cost. On the transmitter (TX) side, a double negative resistance technique is proposed to support oscillation startup at the fundamental frequency above (fmax/2). The radar radiates from 95.8 to 100.1 GHz, with a maximum equivalent-isotropically radiated power (EIRP) of 2.6 dBm and 1.3-dB power fluctuation. A modified folded slot as TX antenna provides GTX = 11.4 dBi and a broadband impedance matching. On the receiver (RX) part, a folded dipole antenna plays the role of a multifunctional electromagnetic structure that, at the second harmonic, it is a receiving antenna with GRX = 8.8 dBi. At the fundamental frequency, it maximizes the voltage swing across subharmonic mixer transistors using a voltage doubling mechanism, boosting the mixer conversion gain by, ideally, 12 dB. The chip has a die size of 3.3 mm2 and consumes 196 mW of dc power. Also, offset focal-plane imaging is introduced, which reduces the complexity and cost of the imager. Several images from the infrastructures within drywalls have been taken with
+the best lateral resolution of 8.4 mm and the measured range resolution of 5.1 cm with rectangular windowing. These qualities make this system a low-cost millimeter-wave imager that provides helpful data for plumbers and handypersons before starting a building renovation.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/abstract/document/10264917
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230998
 
 
 # Featured image
