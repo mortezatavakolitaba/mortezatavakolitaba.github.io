@@ -1,58 +1,47 @@
 ---
-title: 'A 53-62 GHz Two-channel Differential 6-bit Active Phase Shifter in 55-nm SiGe Technology'
-
-# Authors
-# If you created a profile for a user (e.g., the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "AnGeL: Fully-Automated Analog Circuit Generator Using a Neural Network Assisted Semi-Supervised Learning Approach"
 authors:
-  - Morteza Fayazi
-  - admin
-  - Ehsan Afshari
-  - Ronald Dreslinski
-
-# Author notes (optional)
+- Morteza Fayazi
+- admin
+- Ehsan Afshari
+- Ronald Dreslinski
 author_notes:
-  - 'Equal contribution'
-
-
-date: '2023-07-01T00:00:00Z'
-# doi: ''
+- "Equal contribution"
+date: "2023-09-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2017-01-01T00:00:00Z'
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Circuits and Systems I: Regular Papers*
-# publication_short: In *ESSCIRC*
+publication: "*IEEE Journal of Solid-State Circuits*, 2023"
+publication_short: ""
 
-abstract: Machine Learning (ML) has shown promising results in predicting the behavior of analog circuits. However, in order to completely cover the design space for today’s complicated circuits, supervised ML requires a large number of labeled samples, which is time-consuming to provide. Furthermore, a separate dataset must be collected for each circuit topology, making all other previously gathered datasets useless. In this paper, we first present a database including labeled and unlabeled data. We use neural networks to determine the behavior of complicated topologies by combining the more simple ones. By generating such unlabeled data, the time for providing the training set is significantly reduced compared to the conventional approaches. Using this database, we propose a fully automated analog circuit generator framework, AnGeL. AnGeL performs all the schematic circuit design steps, from deciding the circuit topology to determining the circuit parameters i.e., sizing. Our results show that for multiple circuit topologies, in comparison to the state-of-the-art works, while maintaining the same accuracy, the required labeled data is reduced by 4.7x - 1090x. Also, the runtime of AnGeL is 2.9x - 75x faster.
+abstract: A fully integrated high-efficiency phase-locked sub-terahertz (THz) radiator is reported in this article, implemented in a 55-nm SiGe BiCMOS process. This radiator is capable of generating 192–210-GHz chirps, which can be used for the new generation of automotive and imaging radar systems. It consists of a low-power millimeter-wave digital phase-locked loop (DPLL)-based chirp generator, a high-efficiency 6  multiplier chain, and an on-chip folded slot antenna. By incorporating a 32-entry lookup table into the millimeter-wave DPLL, a fast back-to-lock feature is realized at the end of each chirp signal. In addition, this chirp generator prototype achieves  5.9/  19.2-dBm sub-THz power/effective isotropic radiated power (EIRP), which is among the highest in all the phase-locked sources at this frequency range. Its 3.0% dc-to-THz efficiency is at least 5* higher than all previously published works.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
-
-# Display this page in the Featured widget?
+tags:
+- Source Themes
 featured: false
 
-# Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10190116'
+# - name: ""
+#   url: ""
+url_pdf: https://ieeexplore.ieee.org/abstract/document/10264917
 
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -60,8 +49,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-#  - example
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
