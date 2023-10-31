@@ -207,6 +207,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: Publications
     content:
       title: Recent Publications
       text: |-
