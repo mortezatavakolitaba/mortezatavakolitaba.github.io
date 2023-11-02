@@ -114,7 +114,7 @@ social:
     link: https://scholar.google.com/citations?user=M1_8MN8AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mortezatavakolitaba
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/morteza-tavakoli-taba-301b69101/
@@ -129,9 +129,9 @@ social:
 highlight_name: true
 ---
 
-Morteza is currently working with Apple Inc., Cupertino, CA, USA as an Mm-wave Design Engineer, focusing on the design of millimeterwave (mm-Wave) circuits for 5G applications. His research interests revolve around mm-wave and terahertz circuit design, particularly for applications such as frequency-modulated continuous-wave (FMCW) radars, 5G, and next-generation 6G and communication systems.
+Morteza is currently working with Apple Inc., Cupertino, CA, USA as an Mm-wave Design Engineer, focusing on the design of millimeter-wave (mm-Wave) circuits for 5G applications. His research interests revolve around mm-wave and terahertz circuit design, particularly for applications such as frequency-modulated continuous-wave (FMCW) radars, 5G, and next-generation 6G and communication systems.
 
 
-Morteza received the B.S. degree from the Sharif University of Technology, Tehran, Iran, in 2018, and the M.S. and Ph.D. degrees from the University of Michigan, Ann Arbor, MI, USA, in 2021 and 2023, respectively.
+Morteza received his B.S. degree from the Sharif University of Technology, Tehran, Iran, in 2018, and his M.S. and Ph.D. degrees from the University of Michigan, Ann Arbor, MI, USA, in 2021 and 2023, respectively.
 
 {style="text-align: justify;"}
