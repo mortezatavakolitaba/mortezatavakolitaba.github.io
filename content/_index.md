@@ -86,8 +86,8 @@ sections:
           company_url: ''
           company_logo: Apple_logo_black
           location: Sunnyvale, CA
-          date_start: '2016-09-06'
-          date_end: '2018-06-06'
+          date_start: '2022-05-01'
+          date_end: '2022-08-20'
           description: Design and implementation of mm-wave circuits for 5G applications.
         - title: Research and Teaching Assistant
           company: Sharif University of Technology
