@@ -6,7 +6,7 @@ authors:
 - Ehsan Afshari
 - Ronald Dreslinski
 author_notes:
-- "Equal contribution"
+#- "Equal contribution"
 date: "2023-09-01T00:00:00Z"
 doi: ""
 
@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal of Solid-State Circuits*, 2023"
+publication: "*IEEE Transactions on Circuits and Systems I (TCAS-I)*, 2023"
 publication_short: ""
 
 abstract: Machine Learning (ML) has shown promising results in predicting the behavior of analog circuits. However, in order to completely cover the design space for today’s complicated circuits, supervised ML requires a large number of labeled samples which is time-consuming to provide. Furthermore, a separate dataset must be collected for each circuit topology making all other previously gathered datasets useless. In this paper, we first present a database including labeled and unlabeled data. We use neural networks to determine the behavior of complicated topologies by combining the more simple ones. By generating such unlabeled data, the time for providing the training set is significantly reduced compared to the conventional approaches. Using this database, we propose a fully-automated analog circuit generator framework, AnGeL. AnGeL performs all the schematic circuit design steps from deciding the circuit topology to determining the circuit parameters i.e. sizing.
