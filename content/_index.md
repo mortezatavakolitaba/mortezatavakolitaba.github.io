@@ -55,7 +55,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Mm-wave Design Engineer
+        - title: mm-Wave IC Design Engineer
           company: Apple
           company_url: ''
           company_logo: Apple_logo_black
@@ -81,7 +81,7 @@ sections:
               * Worked on the theory and design of a low phase-noise power amplifier funded by Texas Instrument (TI).
               * Design of millimeter-wave circuit blocks for phased arrays and beam steering applications funded by AirVine Scientific Inc.
               * 4Gb/s Optical 8-channel transceiver for LiDAR applications funded by Avicena Tech.
-        - title: Mm-wave Design Engineer
+        - title: mm-Wave Design Engineer
           company: Apple
           company_url: ''
           company_logo: Apple_logo_black
@@ -94,8 +94,8 @@ sections:
           company_url: ''
           company_logo: sharif
           location: Tehran
-          date_start: '2022-05-06'
-          date_end: '2022-08-06'
+          date_start: '2013-09-19'
+          date_end: '2018-06-31'
           description: |2-
               Projects include:
 
@@ -119,14 +119,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+       # - certificate_url: https://www.coursera.org
+       #   date_end: ''
+       #   date_start: '2021-01-25'
+      #    description: ''
+       #  organization: Coursera
+       #   organization_url: https://www.coursera.org
+       #   title: Neural Networks and Deep Learning
+       #   url: ''
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: ''
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          organization: University of Michigan
+          organization_url: https://rackham.umich.edu/
+          title: University of Michigan Rackham Merit Fellowship
+          url: ''      
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
