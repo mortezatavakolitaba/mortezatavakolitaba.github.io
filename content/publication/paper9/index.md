@@ -14,7 +14,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+#  - 'Equal contribution'
 
 
 date: '2020-01-01T00:00:00Z'
@@ -29,7 +29,7 @@ date: '2020-01-01T00:00:00Z'
 publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Applied Physics Reviews*
+publication: In *Applied Physics Reviews, 2020*
 # publication_short: In *ESSCIRC*
 
 abstract: We review the recent advances on the implementation of electronic circuits that operate in the millimeter-wave (30–300 GHz) and terahertz (300–3000 GHz) frequency ranges. The focus of this article is on nonlinear phenomena in electronics. The different implementations of nonlinear circuits for the sake of millimeter-wave and terahertz signal generation are studied in this paper. The challenges of signal generation are examined and the benefits and limitations of different schemes of signal generation are discussed. It is shown that nonlinear devices such as electronic transistors exhibit major advantages enabling realization of low-cost and portable circuits for the emerging applications in these frequency ranges. We also review linear and nonlinear design methodologies employing the properties of electromagnetic waves. The electronic systems designed based on the presented ideas are shown to push the previously unbeatable limits of operation in millimeter-wave and terahertz frequency ranges. A discussion on remaining challenges and future directions concludes the paper.
