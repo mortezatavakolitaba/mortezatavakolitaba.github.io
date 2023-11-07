@@ -14,7 +14,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+#  - 'Equal contribution'
 
 
 date: '2021-01-01T00:00:00Z'
@@ -29,7 +29,7 @@ date: '2021-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2022 IEEE/MTT-S International Microwave Symposium-IMS 2022*
+publication: In *2021 IEEE/MTT-S International Microwave Symposium-IMS 2021*
 # publication_short: In *ESSCIRC*
 
 abstract: This paper demonstrates the precise linearization of a broadband sub-THz FMCW chirp via a particle swarm optimization technique to enable extremely high-resolution and accurate range measurements. A detailed explanation of the implemented particle swarm optimization is presented. The frequency chirp has 66.7GHz bandwidth from 191GHz to 257.7GHz with a standard deviation of 241KHz, relative to linearity. We show that this chirp has an accuracy of 61µm in the range of 61cm, which is equivalent to a 0.01 % range error. We also illustrate that the linearized chirp holds its linearity for large range target displacements. This accuracy level is beneficial to industrial metrology applications like small defect detection on highly smooth surfaces.
