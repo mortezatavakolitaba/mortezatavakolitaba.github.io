@@ -17,7 +17,7 @@ author_notes:
 #  - 'Equal contribution'
 
 
-date: '2023-07-01T00:00:00Z'
+date: '2024-07-01T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-#url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10268736'
+url_pdf: ''
 
 
 # Featured image
