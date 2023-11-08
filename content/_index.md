@@ -94,8 +94,8 @@ sections:
           company_url: ''
           company_logo: sharif
           location: Tehran
-          date_start: '2016-09-06'
-          date_end: '2018-06-06'
+          date_start: '2013-09-19'
+          date_end: '2018-06-31'
           description: |2-
               Projects include:
 
