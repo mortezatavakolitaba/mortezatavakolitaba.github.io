@@ -55,7 +55,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Mm-wave Design Engineer
+        - title: mm-Wave Design Engineer
           company: Apple
           company_url: ''
           company_logo: Apple_logo_black
@@ -81,7 +81,7 @@ sections:
               * Worked on the theory and design of a low phase-noise power amplifier funded by Texas Instrument (TI).
               * Design of millimeter-wave circuit blocks for phased arrays and beam steering applications funded by AirVine Scientific Inc.
               * 4Gb/s Optical 8-channel transceiver for LiDAR applications funded by Avicena Tech.
-        - title: Mm-wave Design Engineer
+        - title: mm-Wave Design Engineer
           company: Apple
           company_url: ''
           company_logo: Apple_logo_black
