@@ -40,7 +40,7 @@ interests:
 education:
   courses:
     - course: PhD in Electronics and RF Circuit
-      institution: University of Michigan, Arbor
+      institution: University of Michigan, Ann Arbor
       year: 2023
     - course: MS in Electronics and RF Circuit
       institution: University of Michigan, Ann Arbor
