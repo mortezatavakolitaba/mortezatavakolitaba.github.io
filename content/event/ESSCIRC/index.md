@@ -15,6 +15,13 @@ location: Virtual
 summary: A Review on the State-of-the-Art THz FMCW Radars Implemented on Silicon (Invited).
 abstract: 'This paper presents the recent progress on the terahertz (THz) frequency-modulated continuous-wave (FMCW) radars implemented on advanced CMOS and SiGe BiCMOS processes with fmax close to 300 GHz. A general overview of the efficient and wideband signal generation methods at high frequencies is presented, which is the main design challenge of broadband FMCW radars. Three state-of-the-art FMCW radars at sub-THz and THz frequencies are discussed, reviewing their specific design challenges and proposed solutions. The first two FMCW radars use harmonic oscillators, operate at 220 GHz and 250 GHz, respectively, and are fabricated on a 55 nm SiGe BiCMOS process. The last one is an FMCW comb radar that utilizes a multiplier-chain method to sweep the frequency range of 220-to-320 GHz and is fabricated on a 65 nm CMOS process. These radars are employed for imaging, high-precision metrology, and ranging purposes.'
 
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2022-09-19T13:00:00Z'
+date_end: '2022-04-25T15:00:00Z'
+all_day: false
+
 # image:
 # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
