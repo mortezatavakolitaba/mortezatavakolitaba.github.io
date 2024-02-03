@@ -12,8 +12,8 @@ location: San Francisco, CA, USA
 #  postcode: '94305'
 #  country: United States
 
-summary: FuNToM: Functional Modeling of RF Circuits Using a Neural Network Assisted Two-Port Analysis Method.
-abstract: ''
+# summary: FuNToM: Functional Modeling of RF Circuits Using a Neural Network Assisted Two-Port Analysis Method.
+# abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
