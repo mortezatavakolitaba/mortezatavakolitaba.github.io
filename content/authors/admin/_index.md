@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Mm-wave Design Engineer
+role: mm-Wave Design Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
