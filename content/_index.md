@@ -134,13 +134,13 @@ sections:
       columns: '2'
       view: compact
   
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      username: admin
-    design:
-      columns: '1'
+ # - block: skills
+ #   content:
+ #     title: Skills
+ #     text: ''
+ #     username: admin
+ #   design:
+ #     columns: '1'
   
   - block: contact
     id: contact
